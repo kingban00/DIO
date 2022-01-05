@@ -9,3 +9,4 @@ Repositório com os desafios desenvolvidos durante o bootcamp da Dio
 ## Links Úteis
 
 - [Sintáxe Básica MarkDown](https://www.markdownguide.org/basic-syntax/)
+- [Repositório da Steph](https://github.com/stebsnusch)
