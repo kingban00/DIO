@@ -1,0 +1,35 @@
+body{
+    background-color: rgb(42, 123, 245);
+    font: bold 16px Arial;
+    text-align: center;
+}
+
+header{
+    color: white;
+}
+
+section{
+    background-color: white;
+    border-radius: 18px;
+    width: 500px;
+    margin: auto;
+    padding: 20px;
+    box-shadow: 4px 4px 10px rgb(54, 54, 54);
+}
+
+div{
+    text-align: left;
+}
+div#check{
+    padding-top: 5px;
+}
+
+:checked + label {
+    text-decoration: line-through;
+    color: grey;
+  }
+
+footer{
+    color: white;
+    font-style: italic;
+}  
