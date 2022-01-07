@@ -5,6 +5,8 @@ Repositório com os desafios desenvolvidos durante o bootcamp da Dio
 
 - Desafio de Projeto sobre Git/Github
 - Desafio de contador com JavaScript
+- Desafio da To-do list
+- Desafio do Palíndromo
 
 ## Links Úteis
 
