@@ -8,6 +8,9 @@ Repositório com os desafios desenvolvidos durante o bootcamp da Dio
 - Desafio da To-do list
 - Desafio do Palíndromo
 
+## Exercícios
+- Substituindo Números pares de um array
+
 ## Links Úteis
 
 - [Sintáxe Básica MarkDown](https://www.markdownguide.org/basic-syntax/)
