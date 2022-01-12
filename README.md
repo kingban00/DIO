@@ -11,7 +11,8 @@ Repositório com os desafios desenvolvidos durante o bootcamp da Dio
 
 ## Exercícios
 - Substituindo Números pares de um array
-- Analisando notas dos alunos
+- Analisando Notas dos Alunos
+- Tratamento de Erros
 
 ## Links Úteis
 
