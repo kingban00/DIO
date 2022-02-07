@@ -13,6 +13,8 @@ Repositório com os desafios desenvolvidos durante o bootcamp da Dio
 - Substituindo Números pares de um array
 - Analisando Notas dos Alunos
 - Tratamento de Erros
+- Coleções (Map e Set)
+- POO
 
 ## Links Úteis
 
